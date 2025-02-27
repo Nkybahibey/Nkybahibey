@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nkybahibey
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,Machine Learning,Artificial Intelligence,Sql,Excel,PowerBi
-- 💞️ I’m looking to collaborate on Python projects related to Data Science
+- 👋 Hi, I’m Odii Nkechinyere
+- 👀 A data scientist passionate about machine learning and data visualization.
+- 🌱 Always a student, learning and unlearning python, sql, AI, big data, predictive analytics
+- 💞️ Interested in anything Data, how it could actually solve real problems.
 - 📫 How to reach me odiinkechinyere@gmail.com
 
 <!---
